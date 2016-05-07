@@ -11,9 +11,9 @@ import javax.imageio.ImageIO;
 
 public class MembraneImage {
 	private BufferedImage original;
-	private final int TOLERANCE = 18; // 18
-	private final int COLOR_TOLERANCE = 60; // 60
-	private final int GREEN_TOLERANCE = 30;
+	private int TOLERANCE = 18; // 18
+	private int COLOR_TOLERANCE = 60; // 60
+	private int GREEN_TOLERANCE = 30;
 	private boolean[][] visited;
 	private BufferedImage tracedImage;
 
