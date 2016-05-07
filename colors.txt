@@ -1,0 +1,125 @@
+Coordinate 455 832
+Red Color value = 43
+Green Color value = 15
+Blue Color value = 0
+
+Coordinate 455 833
+Red Color value = 46
+Green Color value = 11
+Blue Color value = 0
+
+Coordinate 455 834
+Red Color value = 53
+Green Color value = 14
+Blue Color value = 0
+
+Coordinate 455 835
+Red Color value = 55
+Green Color value = 6
+Blue Color value = 0
+
+Coordinate 455 836
+Red Color value = 84
+Green Color value = 25
+Blue Color value = 7
+
+Coordinate 455 837
+Red Color value = 80
+Green Color value = 19
+Blue Color value = 1
+
+Coordinate 455 838
+Red Color value = 78
+Green Color value = 22
+Blue Color value = 7
+
+Coordinate 455 839
+Red Color value = 56
+Green Color value = 8
+Blue Color value = 0
+
+Coordinate 455 840
+Red Color value = 55
+Green Color value = 16
+Blue Color value = 1
+
+Coordinate 455 841
+Red Color value = 41
+Green Color value = 13
+Blue Color value = 0
+
+Coordinate 455 842
+Red Color value = 48
+Green Color value = 31
+Blue Color value = 3
+
+Coordinate 455 850
+Red Color value = 51
+Green Color value = 25
+Blue Color value = 0
+
+Coordinate 455 851
+Red Color value = 57
+Green Color value = 18
+Blue Color value = 0
+
+Coordinate 455 852
+Red Color value = 84
+Green Color value = 18
+Blue Color value = 0
+
+Coordinate 455 853
+Red Color value = 98
+Green Color value = 20
+Blue Color value = 0
+
+Coordinate 455 854
+Red Color value = 101
+Green Color value = 21
+Blue Color value = 0
+
+Coordinate 455 855
+Red Color value = 91
+Green Color value = 15
+Blue Color value = 0
+
+Coordinate 455 856
+Red Color value = 107
+Green Color value = 42
+Blue Color value = 14
+
+Coordinate 455 857
+Red Color value = 91
+Green Color value = 31
+Blue Color value = 7
+
+Coordinate 455 858
+Red Color value = 76
+Green Color value = 19
+Blue Color value = 0
+
+Coordinate 455 859
+Red Color value = 56
+Green Color value = 9
+Blue Color value = 0
+
+Coordinate 455 860
+Red Color value = 49
+Green Color value = 17
+Blue Color value = 0
+
+Coordinate 455 862
+Red Color value = 42
+Green Color value = 21
+Blue Color value = 0
+
+Coordinate 455 873
+Red Color value = 52
+Green Color value = 44
+Blue Color value = 23
+
+Coordinate 455 899
+Red Color value = 62
+Green Color value = 47
+Blue Color value = 24
+
